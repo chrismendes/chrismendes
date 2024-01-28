@@ -1,6 +1,6 @@
-### Experienced Front-end Developer
+### Hello!
 
-15 years commercial experience and strong technical, organisation and communication skills. Extensive track record of collaborating within cross-functional teams on green and brown-field projects to update technology, build rich features and successfully improve user experience and business metrics.
+**Summary**: 15 years commercial experience and strong technical, organisation and communication skills. Extensive track record of collaborating within cross-functional teams on green and brown-field projects to update technology, build rich features and successfully improve user experience and business metrics.
 
 **Languages**: JavaScript, TypeScript, HTML, CSS, PHP
 
